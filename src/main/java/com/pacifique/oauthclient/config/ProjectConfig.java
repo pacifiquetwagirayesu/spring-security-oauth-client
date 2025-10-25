@@ -1,4 +1,4 @@
-package com.pacifique.ssiach16ex1.config;
+package com.pacifique.oauthclient.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;

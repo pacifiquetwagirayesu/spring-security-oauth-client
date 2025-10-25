@@ -1,4 +1,4 @@
-package com.pacifique.ssiach16ex1;
+package com.pacifique.oauthclient;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

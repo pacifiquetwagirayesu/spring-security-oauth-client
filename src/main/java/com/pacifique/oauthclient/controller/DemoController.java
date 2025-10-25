@@ -1,4 +1,4 @@
-package com.pacifique.ssiach16ex1.controller;
+package com.pacifique.oauthclient.controller;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
